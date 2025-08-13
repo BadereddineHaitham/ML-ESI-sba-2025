@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+.profile_default/
+.DS_Store
+
+# Data / models / outputs
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+outputs/
+runs/
+logs/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+Thumbs.db
+desktop.ini
